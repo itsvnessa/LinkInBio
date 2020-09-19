@@ -10,7 +10,7 @@
 
 body {
 	background: var(--lightest-color);
-	color: var(--lightest-color);
+	color: var(--bright-color-2);
 	font-family: 'Roboto', sans-serif;
 }
 
@@ -41,7 +41,7 @@ body {
 }
 
 a {
-	color: var(--lightest-color);
+	color: var(--darkest-color);
 	text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ a {
 }
 
 .link-list-item {
-	border: 1px solid var(--highlight-color);
+	border: 1px solid var(--bright-color-3);
 	box-sizing: border-box;
 	margin: 20px auto;
 	color: var(--darkest-color);
@@ -63,7 +63,7 @@ a {
 
 .link-list-item:hover,
 a:hover {
-	color: var(--bright-color-2);
+	color: var(--highlight-color);
 	border-color: var(--highlight-color);
 	text-shadow: 0 0 2em var(--highlight-color);
 }
