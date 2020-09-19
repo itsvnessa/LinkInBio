@@ -3,14 +3,14 @@
 	--darkest-color: #3D550C;
 	--lightest-color: #A1D0AA;
 	--highlight-color: #ffffff;
-	--bright-color-1: #F6DFDB;
-	--bright-color-2: #FABEC0;
+	--bright-color-1: #FABEC0;
+	--bright-color-2: #ffffff;
 	--bright-color-3: #3A4A3D;
 }
 
 body {
 	background: var(--lightest-color);
-	color: var(--bright-color-2);
+	color: var(--darkest-color);
 	font-family: 'Roboto', sans-serif;
 }
 
