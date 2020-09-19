@@ -51,7 +51,7 @@ a {
 }
 
 .link-list-item {
-	border: 1px solid var(--darkest-color);
+	border: 1px solid var(--highlight-color);
 	box-sizing: border-box;
 	margin: 20px auto;
 	color: var(--darkest-color);
@@ -63,7 +63,7 @@ a {
 
 .link-list-item:hover,
 a:hover {
-	color: var(--highlight-color);
+	color: var(--bright-color-2);
 	border-color: var(--highlight-color);
 	text-shadow: 0 0 2em var(--highlight-color);
 }
