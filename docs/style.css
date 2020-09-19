@@ -3,7 +3,7 @@
 	--darkest-color: #3D550C;
 	--lightest-color: #A1D0AA;
 	--highlight-color: #ffffff;
-	--bright-color-1: #9AB19A;
+	--bright-color-1: #F6DFDB;
 	--bright-color-2: #FABEC0;
 	--bright-color-3: #3A4A3D;
 }
@@ -29,7 +29,7 @@ body {
 	position: relative;
 	overflow: hidden;
 	border-radius: 50%;
-	border: 3px solid var(--lightest-color);
+	border: 3px solid var(--bright-color-2);
 	margin: 0 auto;
 }
 
@@ -51,7 +51,7 @@ a {
 }
 
 .link-list-item {
-	border: 1px solid var(--lightest-color);
+	border: 1px solid var(--darkest-color);
 	box-sizing: border-box;
 	margin: 20px auto;
 	color: var(--darkest-color);
