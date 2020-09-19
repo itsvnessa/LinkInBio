@@ -1,7 +1,7 @@
 /* color palette from https://www.color-hex.com/color-palettes */
 :root {
 	--darkest-color: #3D550C;
-	--lightest-color: #F4B9B8;
+	--lightest-color: #A1D0AA;
 	--highlight-color: #ffffff;
 	--bright-color-1: #9AB19A;
 	--bright-color-2: #D1E2C4;
@@ -9,7 +9,7 @@
 }
 
 body {
-	background: var(--darkest-color);
+	background: var(--lightest-color);
 	color: var(--lightest-color);
 	font-family: 'Roboto', sans-serif;
 }
