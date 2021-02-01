@@ -79,7 +79,7 @@ a:hover {
 }
 
 .medium {
-	background: var(--lightest-color);
+	background: var(--bright-color-2);
 }
 
 .light {
