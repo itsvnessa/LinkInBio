@@ -1,11 +1,11 @@
 /* color palette from https://www.color-hex.com/color-palettes */
 :root {
-	--darkest-color: #006E33;
-	--lightest-color: #9AC791;
-	--highlight-color: #ffffff;
-	--bright-color-1: #ffffff;
-	--bright-color-2: #ADDFB3;
-	--bright-color-3: #ffffff;
+	--darkest-color: #5b8141;
+	--lightest-color: #7bbe7c;
+	--highlight-color: #fffdfd;
+	--bright-color-1: #fffdfd;
+	--bright-color-2: #b3ef92;
+	--bright-color-3: #fffdfd;
 }
 
 body {
