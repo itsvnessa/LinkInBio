@@ -75,11 +75,11 @@ a:hover {
 }
 
 .dark {
-	background: var(--bright-color-1);
+	background: var(--bright-color-2);
 }
 
 .medium {
-	background: var(--bright-color-2);
+	background: var(--bright-color-1);
 }
 
 .light {
