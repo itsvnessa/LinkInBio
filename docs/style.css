@@ -64,7 +64,7 @@ a {
 .link-list-item:hover,
 a:hover {
 	color: var(--bright-color-3);
-	border-color: var(--bright-color-2);
+	border-color: var(--lightest-color);
 	text-shadow: 0 0 2em var(--bright-color-2);
 }
 
