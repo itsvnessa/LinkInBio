@@ -2,7 +2,7 @@
 :root {
 	--darkest-color: #7bbe7c;
 	--lightest-color: #719e63;
-	--highlight-color: #fffdfd;
+	--highlight-color: #bbbbbb;
 	--bright-color-1: #fffdfd;
 	--bright-color-2: #5c8555;
 	--bright-color-3: #fffdfd;
@@ -75,7 +75,7 @@ a:hover {
 }
 
 .dark {
-	background: var(--darkest-color);
+	background: var(--highlight-color);
 }
 
 .medium {
