@@ -75,7 +75,7 @@ a:hover {
 }
 
 .dark {
-	background: var(--bright-color-1);
+	background: var(--lightest-color);
 }
 
 .medium {
